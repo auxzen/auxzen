@@ -6,7 +6,7 @@ I'm Lanang Aulio Gusti Zen as an IT and Electrical Enthusiast with background El
   - IoT Engineer Intern (Intership) at Bluebird Group from Apr to May 2022
 
 ## My Skill
-  -**Electrical Designing** using KiCad and Eagle 
+  - '#ffffff Electrical Designing' using KiCad and Eagle 
 
 <!--
 **auxzen/auxzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
