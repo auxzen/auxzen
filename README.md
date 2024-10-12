@@ -1,5 +1,5 @@
-Hi there 👋, I'm Lanang Aulio Gusti Zen
-***
+## Hi there 👋, I'm Lanang Aulio Gusti Zen
+## About Me
 <!--
 **auxzen/auxzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
