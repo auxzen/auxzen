@@ -21,7 +21,8 @@ Hello 👋, I'm Lanang Aulio Gusti Zen as an IT and Electrical Enthusiast with b
 
 - Data Base
 
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)]()
+   <a href="https://influxdata.com" > <img src="https://github.com/user-attachments/assets/de2ead2a-bc45-4551-a76f-028186a9f824" width="48"/></a>
+    [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
   <br />
   
@@ -32,7 +33,14 @@ Hello 👋, I'm Lanang Aulio Gusti Zen as an IT and Electrical Enthusiast with b
   <p> Currently Learning: </p>
   
   [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+
+
+<!-- 
+My Reference Image
+  ![image](https://github.com/user-attachments/assets/27fd465e-6558-4561-aa07-e8ee26ef759c)
+  ![image](https://github.com/user-attachments/assets/de2ead2a-bc45-4551-a76f-028186a9f824)
   
+-->
 <!--
 **auxzen/auxzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
