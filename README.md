@@ -11,18 +11,28 @@ Hello 👋, I'm Lanang Aulio Gusti Zen as an IT and Electrical Enthusiast with b
 ## My Skill
 - Programming Language
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,r)](https://skillicons.dev)
 
-  <p> Still Learning: </p>
+  <p> Currently Learning: </p>
 
   [![My Skills](https://skillicons.dev/icons?i=html,js,css,ts,vite,vue,react,tailwind&perline=4)](https://skillicons.dev)
 
    <br />
 
+- Data Base
 
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)]()
+
+  <br />
+  
 - Cloud Computing Platform
 
   [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+  <p> Currently Learning: </p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+  
 <!--
 **auxzen/auxzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
