@@ -11,7 +11,7 @@ Hello 👋, I'm Lanang Aulio Gusti Zen as an IT and Electrical Enthusiast with b
 ## My Skill
 - Programming Language
 
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,r)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,r&perline=4)](https://skillicons.dev)
 
   <p> Currently Learning: </p>
 
